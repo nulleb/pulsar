@@ -1,2 +1,2 @@
-# pulsar
+# Pulsar
 Pulsar Panel
